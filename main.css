@@ -2,6 +2,20 @@ body {
 	background-color: antiquewhite;
 }
 
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
 li {
 	color: darkgreen;
+}
+
+.name {
+	color: coral;
+	font-size: 24px;
+}
+
+.nav li {
+	display: inline-block;
 }
