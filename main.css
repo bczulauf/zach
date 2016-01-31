@@ -7,10 +7,6 @@ ul {
 	padding: 0;
 }
 
-li {
-	color: darkgreen;
-}
-
 .name {
 	color: coral;
 	font-size: 24px;
@@ -18,4 +14,9 @@ li {
 
 .nav li {
 	display: inline-block;
+}
+
+img {
+	border: 4px solid dodgerblue;
+	width: 320px;
 }
